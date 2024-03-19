@@ -1,0 +1,3 @@
+XResolution : 300.0
+YResolution : 300.0
+ImageDescription : Abstract natural background of soft plants Cortaderia selloana. Frosted pampas grass on a blurry bokeh
